@@ -109,9 +109,6 @@ I'm a product-focused software engineer from **Ensenada, México** who thrives a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13CraZy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=13CraZy&theme=github-dark-blue&hide_border=true" />
-</div>
 
 ---
 
