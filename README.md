@@ -102,16 +102,6 @@ I'm a product-focused software engineer from **Ensenada, México** who thrives a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13CraZy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13CraZy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</div>
-
-
----
-
 ### 💡 Dev Quote
 
 <div align="center">
