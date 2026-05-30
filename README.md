@@ -2,7 +2,7 @@
   
 # Hey there, I'm Félix 👋
 
-**Full Stack Engineer · SaaS Architect · Developer Tooling Creator**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;SaaS+Architect;Developer+Tooling+Creator;DevSecOps+Advocate)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-iñiguez)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/13CraZy)
@@ -105,8 +105,8 @@ I'm a product-focused software engineer from **Ensenada, México** who thrives a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13CraZy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13CraZy&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=13CraZy&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=13CraZy&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -115,6 +115,16 @@ I'm a product-focused software engineer from **Ensenada, México** who thrives a
 
 ---
 
+### 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=13CraZy&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <br /><br />
+  <sub>⚡ Built with precision, shipped with confidence.</sub>
 </div>
